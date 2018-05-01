@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 09, 2018 at 09:16 AM
+-- Generation Time: May 01, 2018 at 04:12 PM
 -- Server version: 5.6.21
 -- PHP Version: 5.6.3
 
@@ -232,18 +232,7 @@ CREATE TABLE IF NOT EXISTS `member` (
 --
 
 INSERT INTO `member` (`reader_id`, `matric`, `fname`, `lname`, `sex`, `dob`, `address`, `homephone`, `mobilephone`, `nationality`, `singstatus`, `mem_remark`, `username`, `password`, `security1`, `security2`, `security3`) VALUES
-(1, '20141651', 'damilare', 'daniel', 'M', '1975-03-01', '19,ilupeju avenu, off alex udu', 7066421412, 7066421412, 'Nigerian', 'Nigerian Citizen', 'fjdskhjkdsjkdshkdkkks', 'damilare1947', 'solanke', 'victoria', 'HIGH SCHOOL', 'BEANS'),
-(2, '20132429', 'seyi', 'victor', 'M', '2009-10-12', 'Block 105,\r\nibadan road,off sowemimo road', 2147483647, 2147483647, 'Nigerian', 'Nigerian', 'this is a trial', 'seyi', 'seyi', '', '', ''),
-(4, '20132456', 'seun', 'seyi', 'F', '2001-05-06', '20,mokola road off ibadan road', 2147483647, 2147483647, 'nigerian', 'Nigeria Temporary Resident', 'dddddd', 'seun', '', '', '', ''),
-(5, '20141608', 'ayobami', 'samuel', 'M', '1991-01-01', 'dddddddddddddd', 999282, 2992992, 'nigerian', 'Nigerian Citizen', 'ffddd', 'ayo', '', '', '', ''),
-(6, '20141607', 'ayobami', 'samuel', 'M', '1991-01-01', 'dddddddddddddd', 999282, 2992992, 'nigerian', 'Nigerian Citizen', 'ffddd', 'ayo234', 'sope', '', '', ''),
-(7, '20132450', 'goodluck', 'agu', 'M', '1995-05-21', 'ffdfdfdff', 2147483647, 2147483647, 'nigerian', 'Nigerian Citizen', 'dfdfd', 'goodluck101', 'goodluck', '', '', ''),
-(8, '20121349', 'sola', 'seyi', 'F', '1992-05-07', 'ddddddddddddd', 2147483647, 2147483647, 'nigerian', 'Nigerian Citizen', 'fgdgfg', 'seyi45', 'seyi', '', '', ''),
-(9, '20121355', 'sodiq', 'goodluck', 'F', '1992-05-07', 'jlkjkjk', 2147483647, 2147483647, 'nigerian', 'Nigeria Temporary Resident', 'jhjhkkjhjk', 'seyi456', 'seyi', '', '', ''),
-(10, '20134567', 'kemi', 'shade', 'F', '1995-05-21', 'dddddd', 2147483647, 2147483647, 'nigerian', 'Nigerian Citizen', 'ddddd', 'shade105', 'kemireal', '', '', ''),
-(11, '20133333', 'adigun', 'seyi', 'M', '1991-01-01', 'mdmdddjd', 2147483647, 2147483647, 'nigerian', 'Nigerian Citizen', 'skkkdkdkkddkd', 'adigun', 'adigun', '', '', ''),
-(12, '20151947', 'ayomide', 'samuel', 'F', '1991-01-14', 'jhxjshxssxhhxjhxhjxs', 8166583600, 8166583600, 'nigerian', 'Nigerian Citizen', 'kshkhskhskhkhs', 'ayo4life', 'ayo', '', '', ''),
-(13, '20131444', 'damilare', 'daniel', 'M', '1991-01-14', 'kdkfjdkfd', 7066421412, 7066421412, 'nigerian', 'Nigerian Citizen', 'rfrgrg', 'daniel1937', 'solanke', 'ajoke', 'A MAN CALLED GOD', 'rice');
+(4, '20132456', 'seun', 'seyi', 'F', '2001-05-06', '20,mokola road off ibadan road', 2147483647, 2147483647, 'nigerian', 'Nigeria Temporary Resident', 'dddddd', 'seun', '', '', '', '');
 
 --
 -- Indexes for dumped tables
